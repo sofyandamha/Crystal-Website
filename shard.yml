@@ -1,0 +1,17 @@
+name: belajar
+version: 0.1.0
+
+authors:
+  - mocikacang <mocikacang@gov.kr>
+
+targets:
+  belajar:
+    main: src/belajar.cr
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
+crystal: 0.26.1
+
+license: MIT
